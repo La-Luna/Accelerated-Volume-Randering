@@ -1,0 +1,8 @@
+﻿  源.cpp
+C:\Users\57610\Documents\research\demo\体绘制_神经元\体绘制\include\GL\glm\core\func_common.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\57610\Documents\research\demo\体绘制_神经元\体绘制\include\GL\glm\core\func_common.inl(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\57610\Documents\research\demo\体绘制_神经元\体绘制\include\GL\glm\core\func_integer.hpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\57610\Documents\research\demo\体绘制_神经元\体绘制\源.cpp(128,25): warning C4101: “foo”: 未引用的局部变量
+C:\Users\57610\Documents\research\demo\体绘制_神经元\体绘制\源.cpp(1270,10): warning C4101: “err”: 未引用的局部变量
+C:\Users\57610\Documents\research\demo\体绘制_神经元\体绘制\源.cpp(1267,8): warning C4101: “fp”: 未引用的局部变量
+  体绘制.vcxproj -> C:\Users\57610\Documents\research\demo\体绘制_神经元\Debug\体绘制.exe
